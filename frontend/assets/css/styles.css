@@ -1,0 +1,15 @@
+body{
+    background-image: url("../images/bg-index.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.custom-title-h1{
+    color: #9D5897;
+    font-family: 'Varela Round', sans-serif;
+}
+.custom-title-span{
+    color: #1e5252;
+}
+.custom-bg-card{
+    background-color: #558f99;
+}
